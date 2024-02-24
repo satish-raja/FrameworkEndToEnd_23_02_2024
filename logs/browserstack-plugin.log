@@ -1,0 +1,251 @@
+22:18:55.186 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+22:18:55.190 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeVersion=1.4, archetypeGroupId=com.browserstack, archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=GCi2R19hzoLSpWEFTs1Y, groupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=satishraja_DTOMlS, BROWSERSTACK_FRAMEWORK=testng, BUILD_NAME=browserstack build, version=1.0, PROJECT_NAME=BrowserStack Sample, BROWSERSTACK_SOURCE=testng:eclipse:v1.0.8]
+22:18:55.193 [Worker-244: Launching mavenrun-a308777b-4b41-4ab9-b1b3-8e8fad4314ea] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:37:43.831 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+22:37:43.832 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+22:37:43.832 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FrameworkEndToEnd_23_02_2024
+22:37:43.832 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+22:37:43.832 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+22:37:43.833 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FrameworkEndToEnd_23_02_2024
+22:37:47.475 [Worker-254: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+22:37:47.477 [Worker-254: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+22:37:47.477 [Worker-254: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+22:37:47.479 [Worker-254: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:38:49.124 [Worker-260: Launching FrameworkEndToEnd_23_02_2024_testSuite.endToEnd.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+22:38:49.125 [Worker-260: Launching FrameworkEndToEnd_23_02_2024_testSuite.endToEnd.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+22:38:49.125 [Worker-260: Launching FrameworkEndToEnd_23_02_2024_testSuite.endToEnd.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+22:38:49.127 [Worker-260: Launching FrameworkEndToEnd_23_02_2024_testSuite.endToEnd.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:43:59.997 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+22:43:59.997 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+22:43:59.997 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FrameworkEndToEnd_23_02_2024
+22:43:59.998 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+22:43:59.998 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+22:43:59.998 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FrameworkEndToEnd_23_02_2024
+22:44:04.082 [Worker-259: Launching Executing test in C__Users_satis_eclipse-workspace_FrameworkEndToEnd_23_02_2024] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:48:05.074 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+22:48:05.074 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+22:48:05.075 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FrameworkEndToEnd_23_02_2024
+22:48:05.075 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+22:48:05.075 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+22:48:05.075 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FrameworkEndToEnd_23_02_2024
+22:49:40.066 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+22:49:40.066 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+22:49:40.067 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FrameworkEndToEnd_23_02_2024
+22:49:40.067 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+22:49:40.067 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+22:49:40.067 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FrameworkEndToEnd_23_02_2024
+22:49:45.110 [Worker-258: Launching Executing test in C__Users_satis_eclipse-workspace_FrameworkEndToEnd_23_02_2024] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:50:19.707 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+22:50:19.707 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+22:50:19.707 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FrameworkEndToEnd_23_02_2024
+22:50:19.707 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+22:50:19.707 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+22:50:19.708 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FrameworkEndToEnd_23_02_2024
+22:50:24.553 [Worker-258: Launching Executing test in C__Users_satis_eclipse-workspace_FrameworkEndToEnd_23_02_2024] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:56:13.418 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+22:56:13.418 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+22:56:13.418 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FrameworkEndToEnd_23_02_2024
+22:56:13.418 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+22:56:13.418 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+22:56:13.419 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FrameworkEndToEnd_23_02_2024
+23:01:05.072 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+23:01:05.072 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+23:01:05.072 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FrameworkEndToEnd_23_02_2024
+23:01:05.072 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+23:01:05.072 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+23:01:05.072 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FrameworkEndToEnd_23_02_2024
+23:01:10.156 [Worker-271: Launching Executing test in C__Users_satis_eclipse-workspace_FrameworkEndToEnd_23_02_2024] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:31:49.421 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+23:31:49.422 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+23:31:49.422 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FrameworkEndToEnd_23_02_2024
+23:31:49.422 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+23:31:49.422 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+23:31:49.423 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FrameworkEndToEnd_23_02_2024
+23:32:42.189 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+23:32:42.189 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+23:32:42.189 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FrameworkEndToEnd_23_02_2024
+23:32:42.190 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+23:32:42.190 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+23:32:42.190 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FrameworkEndToEnd_23_02_2024
+23:32:46.102 [Worker-283: Launching Executing test in C__Users_satis_eclipse-workspace_FrameworkEndToEnd_23_02_2024] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:38:34.504 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+23:38:34.504 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+23:38:34.504 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FrameworkEndToEnd_23_02_2024
+23:38:34.504 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+23:38:34.504 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+23:38:34.505 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FrameworkEndToEnd_23_02_2024
+23:38:37.590 [Worker-282: Launching Executing test in C__Users_satis_eclipse-workspace_FrameworkEndToEnd_23_02_2024] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:42:13.425 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+23:42:13.425 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+23:42:13.425 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FrameworkEndToEnd_23_02_2024
+23:42:13.425 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+23:42:13.425 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+23:42:13.426 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FrameworkEndToEnd_23_02_2024
+23:43:00.589 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+23:43:00.590 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+23:43:00.590 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FrameworkEndToEnd_23_02_2024
+23:43:00.590 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+23:43:00.590 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+23:43:00.591 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FrameworkEndToEnd_23_02_2024
+23:48:08.575 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+23:48:08.575 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+23:48:08.575 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FrameworkEndToEnd_23_02_2024
+23:48:08.575 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+23:48:08.575 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+23:48:08.576 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FrameworkEndToEnd_23_02_2024
+23:48:12.137 [Worker-286: Launching Executing test in C__Users_satis_eclipse-workspace_FrameworkEndToEnd_23_02_2024] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:48:12.138 [Worker-286: Launching Executing test in C__Users_satis_eclipse-workspace_FrameworkEndToEnd_23_02_2024] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:51:41.638 [Worker-282: Launching FrameworkEndToEnd_23_02_2024_testSuite.loginErrorValidation.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+23:51:41.639 [Worker-282: Launching FrameworkEndToEnd_23_02_2024_testSuite.loginErrorValidation.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+23:51:41.639 [Worker-282: Launching FrameworkEndToEnd_23_02_2024_testSuite.loginErrorValidation.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+23:51:41.641 [Worker-282: Launching FrameworkEndToEnd_23_02_2024_testSuite.loginErrorValidation.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:01:02.655 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+00:01:02.655 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:01:02.655 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FrameworkEndToEnd_23_02_2024
+00:01:02.655 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+00:01:02.655 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:01:02.656 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FrameworkEndToEnd_23_02_2024
+00:01:10.214 [Worker-288: Launching FrameworkEndToEnd_23_02_2024_testSuite.loginErrorValidation.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+00:01:10.215 [Worker-288: Launching FrameworkEndToEnd_23_02_2024_testSuite.loginErrorValidation.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:01:10.215 [Worker-288: Launching FrameworkEndToEnd_23_02_2024_testSuite.loginErrorValidation.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+00:01:10.217 [Worker-288: Launching FrameworkEndToEnd_23_02_2024_testSuite.loginErrorValidation.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:02:03.530 [Worker-290: Launching FrameworkEndToEnd_23_02_2024_testSuite.endToEnd.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+00:02:03.530 [Worker-290: Launching FrameworkEndToEnd_23_02_2024_testSuite.endToEnd.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:02:03.531 [Worker-290: Launching FrameworkEndToEnd_23_02_2024_testSuite.endToEnd.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+00:02:03.532 [Worker-290: Launching FrameworkEndToEnd_23_02_2024_testSuite.endToEnd.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:04:53.857 [Worker-289: Launching FrameworkEndToEnd_23_02_2024_testSuite.orderHistoryValidation.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+00:04:53.858 [Worker-289: Launching FrameworkEndToEnd_23_02_2024_testSuite.orderHistoryValidation.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:04:53.858 [Worker-289: Launching FrameworkEndToEnd_23_02_2024_testSuite.orderHistoryValidation.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+00:04:53.860 [Worker-289: Launching FrameworkEndToEnd_23_02_2024_testSuite.orderHistoryValidation.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:09:56.641 [Worker-294: Launching FrameworkEndToEnd_23_02_2024_testSuite.orderHistoryValidation.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+00:09:56.642 [Worker-294: Launching FrameworkEndToEnd_23_02_2024_testSuite.orderHistoryValidation.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:09:56.642 [Worker-294: Launching FrameworkEndToEnd_23_02_2024_testSuite.orderHistoryValidation.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+00:09:56.644 [Worker-294: Launching FrameworkEndToEnd_23_02_2024_testSuite.orderHistoryValidation.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:10:57.860 [Worker-296: Launching FrameworkEndToEnd_23_02_2024_testSuite.orderHistoryValidation.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+00:10:57.860 [Worker-296: Launching FrameworkEndToEnd_23_02_2024_testSuite.orderHistoryValidation.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:10:57.861 [Worker-296: Launching FrameworkEndToEnd_23_02_2024_testSuite.orderHistoryValidation.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+00:10:57.863 [Worker-296: Launching FrameworkEndToEnd_23_02_2024_testSuite.orderHistoryValidation.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:11:40.878 [Worker-298: Launching FrameworkEndToEnd_23_02_2024_testSuite.loginErrorValidation.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+00:11:40.879 [Worker-298: Launching FrameworkEndToEnd_23_02_2024_testSuite.loginErrorValidation.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:11:40.879 [Worker-298: Launching FrameworkEndToEnd_23_02_2024_testSuite.loginErrorValidation.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+00:11:40.881 [Worker-298: Launching FrameworkEndToEnd_23_02_2024_testSuite.loginErrorValidation.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:12:11.902 [Worker-297: Launching FrameworkEndToEnd_23_02_2024_testSuite.endToEnd.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+00:12:11.903 [Worker-297: Launching FrameworkEndToEnd_23_02_2024_testSuite.endToEnd.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+00:12:11.903 [Worker-297: Launching FrameworkEndToEnd_23_02_2024_testSuite.endToEnd.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+00:12:11.905 [Worker-297: Launching FrameworkEndToEnd_23_02_2024_testSuite.endToEnd.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:12:58.802 [Framework stop - Equinox Container: 652b61e2-b2f8-4724-802d-523de31374bc] INFO  c.b.BrowserStackPluginActivator - Stopping BrowserStack Plugin...
+07:04:42.002 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+07:04:42.011 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeVersion=1.4, archetypeGroupId=com.browserstack, archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=GCi2R19hzoLSpWEFTs1Y, groupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=satishraja_DTOMlS, BROWSERSTACK_FRAMEWORK=testng, BUILD_NAME=browserstack build, version=1.0, PROJECT_NAME=BrowserStack Sample, BROWSERSTACK_SOURCE=testng:eclipse:v1.0.8]
+07:04:42.013 [Worker-47: Launching mavenrun-a7fa5b8f-a163-44c7-ade2-a2c80c851e17] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+07:05:09.271 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+07:05:09.271 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+07:05:09.272 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FrameworkEndToEnd_23_02_2024
+07:05:09.272 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+07:05:09.272 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+07:05:09.273 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FrameworkEndToEnd_23_02_2024
+07:05:13.499 [Worker-46: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+07:05:13.501 [Worker-46: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+07:05:13.503 [Worker-46: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+07:05:13.503 [Worker-46: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+07:05:15.364 [Worker-46: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+07:05:41.707 [Worker-47: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+07:05:41.709 [Worker-47: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+07:05:41.709 [Worker-47: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+07:09:45.846 [Worker-52: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+07:09:45.847 [Worker-52: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+07:09:45.848 [Worker-52: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+07:09:45.848 [Worker-52: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+07:12:01.566 [Worker-47: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+07:12:01.567 [Worker-47: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+07:12:01.568 [Worker-47: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+07:12:01.568 [Worker-47: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+07:15:12.692 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+07:15:12.693 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+07:15:12.693 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FrameworkEndToEnd_23_02_2024
+07:15:12.694 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+07:15:12.694 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+07:15:12.694 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FrameworkEndToEnd_23_02_2024
+07:18:20.248 [Worker-47: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+07:18:20.250 [Worker-47: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+07:18:20.251 [Worker-47: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+07:18:20.251 [Worker-47: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+07:23:17.323 [Worker-57: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+07:23:17.324 [Worker-57: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+07:23:17.325 [Worker-57: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+07:23:17.326 [Worker-57: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+07:25:17.963 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+07:25:17.963 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+07:25:17.963 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FrameworkEndToEnd_23_02_2024
+07:25:17.963 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+07:25:17.964 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+07:25:17.964 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FrameworkEndToEnd_23_02_2024
+07:27:58.799 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+07:27:58.799 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+07:27:58.800 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/testng-browserstack-master
+07:27:58.800 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+07:27:58.800 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+07:27:58.800 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/testng-browserstack-master
+07:28:02.021 [Worker-72: Launching Executing test in D__Selenium_BrowserStack_testng-browserstack-master] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+07:28:57.019 [Framework stop - Equinox Container: 9fc58f3f-8599-40ab-8dab-f8b809e84692] INFO  c.b.BrowserStackPluginActivator - Stopping BrowserStack Plugin...
+09:08:48.214 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+09:08:48.232 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeVersion=1.4, archetypeGroupId=com.browserstack, archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=d65Sx5VfojpH6HpFsKPr, groupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=browserstackasdf_ZgIhJC, BROWSERSTACK_FRAMEWORK=testng, BUILD_NAME=browserstack build, version=1.0, PROJECT_NAME=BrowserStack Sample, BROWSERSTACK_SOURCE=testng:eclipse:v1.0.8]
+09:10:46.992 [Worker-54: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+09:10:46.994 [Worker-54: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+09:10:46.994 [Worker-54: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+09:10:46.998 [Worker-54: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+09:10:48.688 [Worker-54: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+09:11:22.986 [Worker-56: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+09:11:22.988 [Worker-56: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+09:11:22.988 [Worker-56: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+09:15:01.499 [Worker-58: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+09:15:01.501 [Worker-58: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+09:15:01.501 [Worker-58: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+09:15:01.504 [Worker-58: Launching LoginErrorValidationTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+09:16:05.054 [Worker-53: Launching SubmitOrderTest] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+09:16:05.056 [Worker-53: Launching SubmitOrderTest] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+09:16:05.057 [Worker-53: Launching SubmitOrderTest] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+09:16:05.060 [Worker-53: Launching SubmitOrderTest] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+09:21:46.976 [Worker-59: Launching FrameworkEndToEnd_23_02_2024_testng.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+09:21:46.978 [Worker-59: Launching FrameworkEndToEnd_23_02_2024_testng.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+09:21:46.978 [Worker-59: Launching FrameworkEndToEnd_23_02_2024_testng.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+09:21:46.980 [Worker-59: Launching FrameworkEndToEnd_23_02_2024_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+09:26:59.958 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+09:26:59.958 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+09:26:59.959 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FrameworkEndToEnd_23_02_2024
+09:26:59.959 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+09:26:59.959 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+09:26:59.960 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FrameworkEndToEnd_23_02_2024
+09:27:06.165 [Worker-59: Launching Executing test in C__Users_satis_eclipse-workspace_FrameworkEndToEnd_23_02_2024] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+10:08:19.102 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+10:08:19.103 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:08:19.103 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FrameworkEndToEnd_23_02_2024
+10:08:19.103 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+10:08:19.103 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:08:19.104 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FrameworkEndToEnd_23_02_2024
+10:08:23.151 [Worker-62: Launching Executing test in C__Users_satis_eclipse-workspace_FrameworkEndToEnd_23_02_2024] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:06:01.346 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:06:01.346 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:06:01.346 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FrameworkEndToEnd_23_02_2024
+11:06:01.347 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:06:01.347 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:06:01.347 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FrameworkEndToEnd_23_02_2024
+11:06:08.965 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:06:08.965 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:06:08.966 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FrameworkEndToEnd_23_02_2024
+11:06:08.966 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:06:08.966 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:06:08.967 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FrameworkEndToEnd_23_02_2024
+11:06:13.121 [Worker-72: Launching Executing test in C__Users_satis_eclipse-workspace_FrameworkEndToEnd_23_02_2024] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:45:30.028 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:45:30.029 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:45:30.029 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FrameworkEndToEnd_23_02_2024
+11:45:30.029 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:45:30.029 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:45:30.030 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FrameworkEndToEnd_23_02_2024
+11:45:34.520 [Worker-74: Launching Executing test in C__Users_satis_eclipse-workspace_FrameworkEndToEnd_23_02_2024] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:49:54.508 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:49:54.508 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:49:54.508 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/FrameworkEndToEnd_23_02_2024
+11:49:54.508 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:49:54.508 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:49:54.509 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/FrameworkEndToEnd_23_02_2024

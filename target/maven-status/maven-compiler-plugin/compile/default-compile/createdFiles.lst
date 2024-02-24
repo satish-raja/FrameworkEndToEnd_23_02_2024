@@ -1,0 +1,7 @@
+pageObjects\LoginPage.class
+pageObjects\PaymentPage.class
+pageObjects\CartPage.class
+pageObjects\OrderConfirmationPage.class
+pageBase\BasePage.class
+pageObjects\OrderHistoryPage.class
+pageObjects\ProductCataloguePage.class

@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="21" passed="21" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-24T09:21:58 IST" name="Suite" finished-at="2024-02-24T09:26:29 IST" duration-ms="271416">
+    <groups>
+    </groups>
+    <test started-at="2024-02-24T09:21:58 IST" name="Test-0" finished-at="2024-02-24T09:24:27 IST" duration-ms="149205">
+      <class name="testObjects.LoginErrorValidationTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:testObjects.LoginErrorValidationTest@6d367020]" started-at="2024-02-24T09:21:58 IST" name="launchApplication" finished-at="2024-02-24T09:22:09 IST" duration-ms="10546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="loginErrorValidation()[pri:0, instance:testObjects.LoginErrorValidationTest@6d367020]" started-at="2024-02-24T09:22:09 IST" name="loginErrorValidation" finished-at="2024-02-24T09:22:12 IST" duration-ms="3227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginErrorValidation -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:testObjects.LoginErrorValidationTest@6d367020]" started-at="2024-02-24T09:22:13 IST" name="closeApplication" finished-at="2024-02-24T09:22:15 IST" duration-ms="2143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- testObjects.LoginErrorValidationTest -->
+      <class name="testObjects.SubmitOrderTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:testObjects.SubmitOrderTest@773bd77b]" started-at="2024-02-24T09:22:15 IST" name="launchApplication" finished-at="2024-02-24T09:22:24 IST" duration-ms="8575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="submitOrder(java.util.HashMap)[pri:0, instance:testObjects.SubmitOrderTest@773bd77b]" started-at="2024-02-24T09:22:24 IST" name="submitOrder" data-provider="getData" finished-at="2024-02-24T09:22:45 IST" duration-ms="20669" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{userId=anshika@gmail.com, password=Iamking@000, productName=ZARA COAT 3}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitOrder -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:testObjects.SubmitOrderTest@773bd77b]" started-at="2024-02-24T09:22:46 IST" name="closeApplication" finished-at="2024-02-24T09:22:48 IST" duration-ms="2128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:testObjects.SubmitOrderTest@773bd77b]" started-at="2024-02-24T09:22:48 IST" name="launchApplication" finished-at="2024-02-24T09:22:56 IST" duration-ms="8224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="submitOrder(java.util.HashMap)[pri:0, instance:testObjects.SubmitOrderTest@773bd77b]" started-at="2024-02-24T09:22:56 IST" name="submitOrder" data-provider="getData" finished-at="2024-02-24T09:23:16 IST" duration-ms="19664" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{userId=satishraja@gmail.com, password=Raja1234, productName=ADIDAS ORIGINAL}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitOrder -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:testObjects.SubmitOrderTest@773bd77b]" started-at="2024-02-24T09:23:17 IST" name="closeApplication" finished-at="2024-02-24T09:23:21 IST" duration-ms="3936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:testObjects.SubmitOrderTest@773bd77b]" started-at="2024-02-24T09:23:21 IST" name="launchApplication" finished-at="2024-02-24T09:23:29 IST" duration-ms="7986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="submitOrder(java.util.HashMap)[pri:0, instance:testObjects.SubmitOrderTest@773bd77b]" started-at="2024-02-24T09:23:29 IST" name="submitOrder" data-provider="getData" finished-at="2024-02-24T09:23:39 IST" duration-ms="9852" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{userId=chittyraja@gmail.com, password=Test1234, productName=IPHONE 13 PRO}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitOrder -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:testObjects.SubmitOrderTest@773bd77b]" started-at="2024-02-24T09:23:40 IST" name="closeApplication" finished-at="2024-02-24T09:23:42 IST" duration-ms="2068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:testObjects.SubmitOrderTest@773bd77b]" started-at="2024-02-24T09:23:42 IST" name="launchApplication" finished-at="2024-02-24T09:23:50 IST" duration-ms="7458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="orderHistoryValidation(java.util.HashMap)[pri:0, instance:testObjects.SubmitOrderTest@773bd77b]" started-at="2024-02-24T09:23:50 IST" name="orderHistoryValidation" data-provider="getData" finished-at="2024-02-24T09:23:54 IST" depends-on-methods="testObjects.SubmitOrderTest.submitOrder" duration-ms="4695" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{userId=anshika@gmail.com, password=Iamking@000, productName=ZARA COAT 3}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderHistoryValidation -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:testObjects.SubmitOrderTest@773bd77b]" started-at="2024-02-24T09:23:56 IST" name="closeApplication" finished-at="2024-02-24T09:23:58 IST" duration-ms="2135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:testObjects.SubmitOrderTest@773bd77b]" started-at="2024-02-24T09:23:58 IST" name="launchApplication" finished-at="2024-02-24T09:24:05 IST" duration-ms="7139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="orderHistoryValidation(java.util.HashMap)[pri:0, instance:testObjects.SubmitOrderTest@773bd77b]" started-at="2024-02-24T09:24:05 IST" name="orderHistoryValidation" data-provider="getData" finished-at="2024-02-24T09:24:08 IST" depends-on-methods="testObjects.SubmitOrderTest.submitOrder" duration-ms="3005" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{userId=satishraja@gmail.com, password=Raja1234, productName=ADIDAS ORIGINAL}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderHistoryValidation -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:testObjects.SubmitOrderTest@773bd77b]" started-at="2024-02-24T09:24:09 IST" name="closeApplication" finished-at="2024-02-24T09:24:11 IST" duration-ms="2203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:testObjects.SubmitOrderTest@773bd77b]" started-at="2024-02-24T09:24:11 IST" name="launchApplication" finished-at="2024-02-24T09:24:20 IST" duration-ms="8222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="orderHistoryValidation(java.util.HashMap)[pri:0, instance:testObjects.SubmitOrderTest@773bd77b]" started-at="2024-02-24T09:24:20 IST" name="orderHistoryValidation" data-provider="getData" finished-at="2024-02-24T09:24:24 IST" depends-on-methods="testObjects.SubmitOrderTest.submitOrder" duration-ms="4146" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{userId=chittyraja@gmail.com, password=Test1234, productName=IPHONE 13 PRO}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderHistoryValidation -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:testObjects.SubmitOrderTest@773bd77b]" started-at="2024-02-24T09:24:25 IST" name="closeApplication" finished-at="2024-02-24T09:24:27 IST" duration-ms="2190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- testObjects.SubmitOrderTest -->
+    </test> <!-- Test-0 -->
+    <test started-at="2024-02-24T09:21:58 IST" name="Test-1" finished-at="2024-02-24T09:25:00 IST" duration-ms="181732">
+      <class name="testObjects.LoginErrorValidationTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:testObjects.LoginErrorValidationTest@2f879bab]" started-at="2024-02-24T09:21:58 IST" name="launchApplication" finished-at="2024-02-24T09:22:11 IST" duration-ms="12885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="loginErrorValidation()[pri:0, instance:testObjects.LoginErrorValidationTest@2f879bab]" started-at="2024-02-24T09:22:11 IST" name="loginErrorValidation" finished-at="2024-02-24T09:22:14 IST" duration-ms="2581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginErrorValidation -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:testObjects.LoginErrorValidationTest@2f879bab]" started-at="2024-02-24T09:22:15 IST" name="closeApplication" finished-at="2024-02-24T09:22:17 IST" duration-ms="2122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- testObjects.LoginErrorValidationTest -->
+      <class name="testObjects.SubmitOrderTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:testObjects.SubmitOrderTest@1d4664d7]" started-at="2024-02-24T09:22:17 IST" name="launchApplication" finished-at="2024-02-24T09:22:29 IST" duration-ms="12046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="submitOrder(java.util.HashMap)[pri:0, instance:testObjects.SubmitOrderTest@1d4664d7]" started-at="2024-02-24T09:22:29 IST" name="submitOrder" data-provider="getData" finished-at="2024-02-24T09:22:49 IST" duration-ms="19949" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{userId=anshika@gmail.com, password=Iamking@000, productName=ZARA COAT 3}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitOrder -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:testObjects.SubmitOrderTest@1d4664d7]" started-at="2024-02-24T09:22:50 IST" name="closeApplication" finished-at="2024-02-24T09:22:52 IST" duration-ms="2160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:testObjects.SubmitOrderTest@1d4664d7]" started-at="2024-02-24T09:22:52 IST" name="launchApplication" finished-at="2024-02-24T09:23:04 IST" duration-ms="11501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="submitOrder(java.util.HashMap)[pri:0, instance:testObjects.SubmitOrderTest@1d4664d7]" started-at="2024-02-24T09:23:04 IST" name="submitOrder" data-provider="getData" finished-at="2024-02-24T09:23:23 IST" duration-ms="19615" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{userId=satishraja@gmail.com, password=Raja1234, productName=ADIDAS ORIGINAL}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitOrder -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:testObjects.SubmitOrderTest@1d4664d7]" started-at="2024-02-24T09:23:25 IST" name="closeApplication" finished-at="2024-02-24T09:23:27 IST" duration-ms="2198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:testObjects.SubmitOrderTest@1d4664d7]" started-at="2024-02-24T09:23:27 IST" name="launchApplication" finished-at="2024-02-24T09:23:38 IST" duration-ms="11326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="submitOrder(java.util.HashMap)[pri:0, instance:testObjects.SubmitOrderTest@1d4664d7]" started-at="2024-02-24T09:23:38 IST" name="submitOrder" data-provider="getData" finished-at="2024-02-24T09:23:57 IST" duration-ms="19137" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{userId=chittyraja@gmail.com, password=Test1234, productName=IPHONE 13 PRO}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitOrder -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:testObjects.SubmitOrderTest@1d4664d7]" started-at="2024-02-24T09:23:59 IST" name="closeApplication" finished-at="2024-02-24T09:24:01 IST" duration-ms="2185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:testObjects.SubmitOrderTest@1d4664d7]" started-at="2024-02-24T09:24:01 IST" name="launchApplication" finished-at="2024-02-24T09:24:13 IST" duration-ms="12016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="orderHistoryValidation(java.util.HashMap)[pri:0, instance:testObjects.SubmitOrderTest@1d4664d7]" started-at="2024-02-24T09:24:13 IST" name="orderHistoryValidation" data-provider="getData" finished-at="2024-02-24T09:24:18 IST" depends-on-methods="testObjects.SubmitOrderTest.submitOrder" duration-ms="5481" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{userId=anshika@gmail.com, password=Iamking@000, productName=ZARA COAT 3}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderHistoryValidation -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:testObjects.SubmitOrderTest@1d4664d7]" started-at="2024-02-24T09:24:20 IST" name="closeApplication" finished-at="2024-02-24T09:24:22 IST" duration-ms="2062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:testObjects.SubmitOrderTest@1d4664d7]" started-at="2024-02-24T09:24:22 IST" name="launchApplication" finished-at="2024-02-24T09:24:33 IST" duration-ms="11696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="orderHistoryValidation(java.util.HashMap)[pri:0, instance:testObjects.SubmitOrderTest@1d4664d7]" started-at="2024-02-24T09:24:33 IST" name="orderHistoryValidation" data-provider="getData" finished-at="2024-02-24T09:24:37 IST" depends-on-methods="testObjects.SubmitOrderTest.submitOrder" duration-ms="3593" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{userId=satishraja@gmail.com, password=Raja1234, productName=ADIDAS ORIGINAL}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderHistoryValidation -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:testObjects.SubmitOrderTest@1d4664d7]" started-at="2024-02-24T09:24:38 IST" name="closeApplication" finished-at="2024-02-24T09:24:41 IST" duration-ms="3182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:testObjects.SubmitOrderTest@1d4664d7]" started-at="2024-02-24T09:24:41 IST" name="launchApplication" finished-at="2024-02-24T09:24:53 IST" duration-ms="11378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="orderHistoryValidation(java.util.HashMap)[pri:0, instance:testObjects.SubmitOrderTest@1d4664d7]" started-at="2024-02-24T09:24:53 IST" name="orderHistoryValidation" data-provider="getData" finished-at="2024-02-24T09:24:56 IST" depends-on-methods="testObjects.SubmitOrderTest.submitOrder" duration-ms="3591" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{userId=chittyraja@gmail.com, password=Test1234, productName=IPHONE 13 PRO}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderHistoryValidation -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:testObjects.SubmitOrderTest@1d4664d7]" started-at="2024-02-24T09:24:58 IST" name="closeApplication" finished-at="2024-02-24T09:25:00 IST" duration-ms="2126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- testObjects.SubmitOrderTest -->
+    </test> <!-- Test-1 -->
+    <test started-at="2024-02-24T09:21:58 IST" name="Test-2" finished-at="2024-02-24T09:26:29 IST" duration-ms="271416">
+      <class name="testObjects.LoginErrorValidationTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:testObjects.LoginErrorValidationTest@2d66530f]" started-at="2024-02-24T09:21:58 IST" name="launchApplication" finished-at="2024-02-24T09:22:24 IST" duration-ms="25500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="loginErrorValidation()[pri:0, instance:testObjects.LoginErrorValidationTest@2d66530f]" started-at="2024-02-24T09:22:24 IST" name="loginErrorValidation" finished-at="2024-02-24T09:22:26 IST" duration-ms="2321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginErrorValidation -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:testObjects.LoginErrorValidationTest@2d66530f]" started-at="2024-02-24T09:22:27 IST" name="closeApplication" finished-at="2024-02-24T09:22:29 IST" duration-ms="2123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- testObjects.LoginErrorValidationTest -->
+      <class name="testObjects.SubmitOrderTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:testObjects.SubmitOrderTest@1d207fad]" started-at="2024-02-24T09:22:29 IST" name="launchApplication" finished-at="2024-02-24T09:22:48 IST" duration-ms="18802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="submitOrder(java.util.HashMap)[pri:0, instance:testObjects.SubmitOrderTest@1d207fad]" started-at="2024-02-24T09:22:48 IST" name="submitOrder" data-provider="getData" finished-at="2024-02-24T09:23:08 IST" duration-ms="20251" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{userId=anshika@gmail.com, password=Iamking@000, productName=ZARA COAT 3}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitOrder -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:testObjects.SubmitOrderTest@1d207fad]" started-at="2024-02-24T09:23:10 IST" name="closeApplication" finished-at="2024-02-24T09:23:12 IST" duration-ms="2091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:testObjects.SubmitOrderTest@1d207fad]" started-at="2024-02-24T09:23:12 IST" name="launchApplication" finished-at="2024-02-24T09:23:32 IST" duration-ms="20423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="submitOrder(java.util.HashMap)[pri:0, instance:testObjects.SubmitOrderTest@1d207fad]" started-at="2024-02-24T09:23:32 IST" name="submitOrder" data-provider="getData" finished-at="2024-02-24T09:23:53 IST" duration-ms="20714" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{userId=satishraja@gmail.com, password=Raja1234, productName=ADIDAS ORIGINAL}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitOrder -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:testObjects.SubmitOrderTest@1d207fad]" started-at="2024-02-24T09:23:54 IST" name="closeApplication" finished-at="2024-02-24T09:23:56 IST" duration-ms="2042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:testObjects.SubmitOrderTest@1d207fad]" started-at="2024-02-24T09:23:56 IST" name="launchApplication" finished-at="2024-02-24T09:24:31 IST" duration-ms="35216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="submitOrder(java.util.HashMap)[pri:0, instance:testObjects.SubmitOrderTest@1d207fad]" started-at="2024-02-24T09:24:31 IST" name="submitOrder" data-provider="getData" finished-at="2024-02-24T09:24:51 IST" duration-ms="19971" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{userId=chittyraja@gmail.com, password=Test1234, productName=IPHONE 13 PRO}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitOrder -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:testObjects.SubmitOrderTest@1d207fad]" started-at="2024-02-24T09:24:53 IST" name="closeApplication" finished-at="2024-02-24T09:24:55 IST" duration-ms="2100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:testObjects.SubmitOrderTest@1d207fad]" started-at="2024-02-24T09:24:55 IST" name="launchApplication" finished-at="2024-02-24T09:25:24 IST" duration-ms="29673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="orderHistoryValidation(java.util.HashMap)[pri:0, instance:testObjects.SubmitOrderTest@1d207fad]" started-at="2024-02-24T09:25:24 IST" name="orderHistoryValidation" data-provider="getData" finished-at="2024-02-24T09:25:30 IST" depends-on-methods="testObjects.SubmitOrderTest.submitOrder" duration-ms="5314" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{userId=anshika@gmail.com, password=Iamking@000, productName=ZARA COAT 3}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderHistoryValidation -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:testObjects.SubmitOrderTest@1d207fad]" started-at="2024-02-24T09:25:31 IST" name="closeApplication" finished-at="2024-02-24T09:25:34 IST" duration-ms="3141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:testObjects.SubmitOrderTest@1d207fad]" started-at="2024-02-24T09:25:34 IST" name="launchApplication" finished-at="2024-02-24T09:25:54 IST" duration-ms="19581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="orderHistoryValidation(java.util.HashMap)[pri:0, instance:testObjects.SubmitOrderTest@1d207fad]" started-at="2024-02-24T09:25:54 IST" name="orderHistoryValidation" data-provider="getData" finished-at="2024-02-24T09:25:57 IST" depends-on-methods="testObjects.SubmitOrderTest.submitOrder" duration-ms="3820" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{userId=satishraja@gmail.com, password=Raja1234, productName=ADIDAS ORIGINAL}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderHistoryValidation -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:testObjects.SubmitOrderTest@1d207fad]" started-at="2024-02-24T09:25:59 IST" name="closeApplication" finished-at="2024-02-24T09:26:02 IST" duration-ms="2971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:testObjects.SubmitOrderTest@1d207fad]" started-at="2024-02-24T09:26:02 IST" name="launchApplication" finished-at="2024-02-24T09:26:21 IST" duration-ms="19578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="orderHistoryValidation(java.util.HashMap)[pri:0, instance:testObjects.SubmitOrderTest@1d207fad]" started-at="2024-02-24T09:26:21 IST" name="orderHistoryValidation" data-provider="getData" finished-at="2024-02-24T09:26:25 IST" depends-on-methods="testObjects.SubmitOrderTest.submitOrder" duration-ms="3822" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{userId=chittyraja@gmail.com, password=Test1234, productName=IPHONE 13 PRO}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderHistoryValidation -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:testObjects.SubmitOrderTest@1d207fad]" started-at="2024-02-24T09:26:26 IST" name="closeApplication" finished-at="2024-02-24T09:26:29 IST" duration-ms="3041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- testObjects.SubmitOrderTest -->
+    </test> <!-- Test-2 -->
+  </suite> <!-- Suite -->
+</testng-results>
