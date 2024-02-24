@@ -1,16 +1,17 @@
 package testObjects;
 
 import java.util.HashMap;
+
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
+
 import pageObjects.CartPage;
 import pageObjects.OrderConfirmationPage;
 import pageObjects.OrderHistoryPage;
 import pageObjects.PaymentPage;
 import pageObjects.ProductCataloguePage;
 import testComponents.BaseTest;
-import testComponents.BaseTest2;
 
 public class SubmitOrderTest  extends BaseTest{
 	WebDriver driver ;
